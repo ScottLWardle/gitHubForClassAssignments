@@ -1,0 +1,5 @@
+GitHubForAssignments.txt
+
+I think from what I understand of GitHub that I will upload files
+to GitHub.  I will use the Add File and Upload Files option then 
+use the Commit changes button at the bottom
